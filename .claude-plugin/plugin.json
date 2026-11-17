@@ -1,0 +1,16 @@
+{
+  "name": "ezseller",
+  "version": "0.1.0",
+  "description": "Investigate authorized Amazon seller inventory, listings, orders, fees and operational evidence. Seller connection and access are subject to Amazon authorization.",
+  "author": {
+    "name": "SMAT Designs",
+    "url": "https://smatdesigns.com"
+  },
+  "repository": "https://github.com/jabbertones-cloud/ezseller-agent-plugin",
+  "keywords": [
+    "ezseller",
+    "mcp",
+    "agent"
+  ],
+  "homepage": "https://ezseller.smatdesigns.com"
+}
