@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "ezseller": {
+      "type": "http",
+      "url": "https://ezseller.smatdesigns.com/mcp",
+      "note": "Use normal EzSeller OAuth. Seller authorization can be beta-limited. Never copy Amazon access tokens; writes are server approval-gated."
+    }
+  }
+}
