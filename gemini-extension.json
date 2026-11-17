@@ -1,0 +1,10 @@
+{
+  "name": "ezseller",
+  "version": "0.1.0",
+  "description": "Investigate authorized Amazon seller inventory, listings, orders, fees and operational evidence. Seller connection and access are subject to Amazon authorization.",
+  "mcpServers": {
+    "ezseller": {
+      "httpUrl": "https://ezseller.smatdesigns.com/mcp"
+    }
+  }
+}
