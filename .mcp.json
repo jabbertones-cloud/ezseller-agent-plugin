@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "ezseller": {
+      "type": "http",
+      "url": "https://ezseller.smatdesigns.com/mcp",
+      "note": "Tenant-scoped OAuth; no Amazon keys in client config. Some seller authorizations remain limited to approved beta. Writes require explicit server-side authorization."
+    }
+  }
+}
